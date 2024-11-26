@@ -1,0 +1,45 @@
+/* navbar section start here  */
+
+.navbar {
+  flex-direction: column;
+}
+.logo {
+  width: 200px;
+  font-size: 2rem;
+}
+.hero-section {
+  flex-direction: column;
+}
+.container {
+  flex-direction: column;
+  align-items: center;
+}
+.card {
+  width: 90%;
+}
+.card p {
+  margin: 0;
+}
+.hero-section-item img {
+  width: 350px;
+}
+.size {
+  text-align: center;
+}
+.main-section-para {
+  text-align: center;
+}
+.btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.form-section {
+  flex-direction: column;
+}
+input[type="email"] {
+  width: 100%;
+}
+input[type="submit"] {
+  width: 50%;
+}
